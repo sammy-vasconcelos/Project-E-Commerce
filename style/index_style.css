@@ -160,18 +160,19 @@ body {
     float: left;
     position: relative;
     left: 10px;
-    width: 60px;
-    height: 58px;
-    top: 4px;
+    width: 80px;
+    height: 78px;
+    top: -5px;
+    left: 30px;
 }
-.nome {
+/* .nome {
     float: left;
     position: relative;
     bottom: 22px;
     left: 30px;
     width: 180px; 
     height: 100px;
-}
+} */
 .carrinho{
     float: left;
     position: relative;
@@ -188,6 +189,8 @@ body {
     width: 60px;
     height: 60px;
 }
+
+
 .barrinhas {
     float: left;
     position: relative;
@@ -215,7 +218,7 @@ body {
     display: block;
     width: 100%;
     height: 5px;
-    background-image: linear-gradient(90deg, #ff00c8 0%, #4441f5 50%, #8927fa 100%);
+    background-image: linear-gradient(90deg, #f741cf 0%, #9e41f5 50%, #4727fa 100%);
     margin: 8px 0px;
     transition: 0.4s;
 }
@@ -301,7 +304,7 @@ body {
 }
 
 .categorias div {
-    background-image: linear-gradient(90deg, #ff00c8 0%, #2421a7 50%, #522388 100%);
+    background-image: linear-gradient(90deg, #ff00c8 0%, #7621a7 50%, #2718fa 100%);
     border-radius: 50%;
     display: flex;
     padding: 4px;
@@ -323,7 +326,7 @@ body {
 .opcoes {
     position: relative;
     display: flex;
-    background-image: linear-gradient(90deg, #ee31c5 0%, #2421a7 50%, #522388 100%);
+    background-image: linear-gradient(90deg, #ee31c5 0%, #6b21a7 50%, #2908bd 100%);
     margin-top: -130px;
     margin-bottom: 15px;
     width: 95rem;
